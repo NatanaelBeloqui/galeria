@@ -113,7 +113,7 @@ Requisitos: Flutter SDK 3.x ou superior.
 
 ## 👥 Autores
 
-- Miguel Maromba Peru Enorme
-- Natanael Gostosão Top One from Brazil
+- Miguel Antônio
+- Natanael Beloqui
 
 Faculdade Senac Joinville — ADS 5ª Fase — 2026/1
