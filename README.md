@@ -83,7 +83,13 @@ Ambos aceitam parâmetros e usam `const` constructor.
 - Usado como fundo decorativo em: `_CardProduto` e `TelaDetalhes`.
 
 ---
+## Screenshot
+Tela: Galeria
+<img width="432" height="852" alt="image" src="https://github.com/user-attachments/assets/938d3971-a96e-4827-8827-dbcd18099d1d" />
 
+Tela: Detalhes
+<img width="452" height="880" alt="image" src="https://github.com/user-attachments/assets/4f918e54-1449-47fc-abaf-08b3bcdad374" />
+---
 ## 📁 Estrutura do Projeto
 
 ```
